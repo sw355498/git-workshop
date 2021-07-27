@@ -99,7 +99,13 @@ console.log( sum([1,2,,3,4,5]));
 再把我的最好的愛給你</br>
 
 ---------------------
+
 ### 圖片
 ![五月天](https://punchline.asia/wp-content/uploads/2015/11/%E4%BA%94%E6%9C%88%E5%A4%A9.jpg)
+
+---------------------
+
+### 連結
+[Markdown文件網址](https://markdown.tw/)
 
 ---------------------
