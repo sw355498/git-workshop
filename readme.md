@@ -6,7 +6,7 @@
 ```bash=
 $ git --version
 ```
-[git](https://git-scm.com/)
+[git](https://git-scm.com/) </br>
 [Sourcetree](https://www.sourcetreeapp.com/)
 
 2. 設定環境變數
