@@ -134,3 +134,24 @@ $ git restore {檔案名稱}
     ```
 
 -----------------------------
+
+## 建立 github repo
+
+### 增加一個遠端repo 的連結，這個遠端的名稱叫做 origin
+```bash=
+$ git remote add origin {url}
+
+$ git branch -M main
+```
+
+### 設定 main 這個分支跟 origin 遠端的main 分支做連結且 push 上去
+```bash=
+$ git push -u origin main
+```
+
+### 設定 set-upstream 過後，就可以不用指定 origin {分支名稱}
+```bash=
+$ git push
+```
+
+-----------------------------
